@@ -43,4 +43,4 @@ I am a Full-Stack Web Developer with hands-on experience building applications u
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/nataliia-lishchynska)
-[![Website](https://img.shields.io/badge/-Portfolio-000000?logo=code&logoColor=white&style=flat)](https://yourwebsite.com)
+[![Website](https://img.shields.io/badge/-Portfolio-000000?logo=code&logoColor=white&style=flat)](https://natzen24.github.io/MyPortfolio/)       
