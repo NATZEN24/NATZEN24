@@ -1,39 +1,32 @@
-# 👋 Hi there! I'm Nataliia
+# 👋 Hi, I'm Nataliia
 
 ## 🌍 Based in Germany | 💻 Full-Stack Web Developer | 🤝 Open to Opportunities
 
-I recently completed a **Full-Stack Web Development program** and have hands-on experience with building full-stack applications using modern technologies. I'm passionate about creating responsive, user-focused websites and love turning ideas into reality with code.
+I am a Full-Stack Web Developer with hands-on experience building applications using modern technologies. I am passionate about creating responsive, user-focused websites and enjoy turning ideas into functional solutions with code.
+🎓 Graduate of a Full-Stack Web Development Program, gaining hands-on experience with front-end and back-end technologies
 
-📫 **Let’s connect for collaboration or job opportunities:**  
+📫 **Let’s Connect**  
 📧 [silailatan@gmail.com](mailto:silailatan@gmail.com)
-
 ---
 
-## 💻 What I Know
-
-I’ve worked with:
+## 💻 Technical Skills
 
 - **Front-End**: HTML, CSS, JavaScript, React, Next.js, Bootstrap, Vite, React Router, Media Queries, Flexbox/Grid   
-- **Back-End**: Node.js, Express.js, M, JWT, CORS  
+- **Back-End**: Node.js, Express.js, JWT, CORS  
 - **Tools**: Git, GitHub, REST APIs, Postman  
 - **Databases**: MongoDB, MySQL
-
 ---
 
-## 🚀 Interests
+## 💼 Projects & Experience
 
-- Full-Stack Web Development  
-- Open Source Projects  
-- AI & Machine Learning integration in web apps  
-- Continuous Learning and Team Collaboration
-
+- Small personal projects and guided exercises available on GitHub.
+- Focused on building practical full-stack applications and learning modern web development workflows.  
 ---
 
 ## 💼 Current Status
 
-🎓 Graduate of a Full-Stack Web Development Program  
-🌐 Actively seeking opportunities as a **Junior Web Developer**  
-💬 Fluent in English and Ukrainian. German - intermediate, actively improving
+🌐 Open to opportunities as a **Junior Web Developer**  
+💬 Fluent in English and Russian; Ukrainian - native speaker; German - intermediate, actively improving
 
 ## 🛠️ Technologies & Tools
 
