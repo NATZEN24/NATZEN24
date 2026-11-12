@@ -4,9 +4,6 @@
 
 I am a Full-Stack Web Developer with hands-on experience building applications using modern technologies. I am passionate about creating responsive, user-focused websites and enjoy turning ideas into functional solutions with code.
 🎓 Graduate of a Full-Stack Web Development Program, gaining hands-on experience with front-end and back-end technologies
-
-📫 **Let’s Connect**  
-📧 [silailatan@gmail.com](mailto:silailatan@gmail.com)
 ---
 
 ## 💻 Technical Skills
